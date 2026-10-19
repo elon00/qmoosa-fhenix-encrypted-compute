@@ -1,0 +1,11 @@
+{
+  "name": "qmoosa-fhenix-encrypted-compute",
+  "version": "0.1.0",
+  "description": "Fhenix Fully Homomorphic Encryption (FHE) EVM Smart Contract Suite",
+  "dependencies": {
+    "@fhenixprotocol/contracts": "^0.2.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0"
+  }
+}
